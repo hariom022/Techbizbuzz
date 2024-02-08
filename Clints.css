@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    margin: 30px 0px;
+    color: #000080;
+}
+.clints__container .clints__container__img{
+    display: flex;
+   justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    /* padding: 50px ; */
+
+}
+.clints__container__img div{
+    padding: 26px;
+
+}

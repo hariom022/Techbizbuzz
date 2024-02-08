@@ -1,0 +1,12 @@
+.packages__container .packages__text__container{
+    display: flex;
+
+}
+@media screen and (max-width: 600px){
+    .packages__container .packages__text__container{
+        display: block;
+        text-align: center;
+    
+    }
+
+}

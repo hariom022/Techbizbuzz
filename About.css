@@ -1,0 +1,17 @@
+.about__section1{
+    display: flex;
+    margin-top: 5px;
+}
+.about__section2{
+    display: flex;
+}
+@media screen and (max-width: 600px) {
+    .about__section1{
+        display: block;
+        text-align: center;
+    } 
+    .about__section2{
+        display: block;
+        text-align: center;
+    } 
+}

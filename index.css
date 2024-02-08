@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home-widget-area .card:hover{
+    background-color: aqua;
+    color: white;
+    transition: background-color 0.9s ease;
+}
+
+.second-home-widget-area hr{
+    color: black;
+    border: 2px solid black;
+    width: 20%;
+    margin: 20px;
+}
+
+.third-home-widget-area{
+    width: 100%;
+
+    background-color: chocolate;
+}
+.third-home-widget-area h2{
+    text-align: center;
+    padding: 50px 10px;
+    color: white;
+}
+
+.footer__section .left-side-footer a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.footer__section .right-side-footer i{
+    padding: 10px;
+    background-color: #808080;
+    border-radius: 50%;
+}

@@ -1,0 +1,14 @@
+.address_container{
+    display: flex;
+    justify-content: space-around;
+}
+.contact__message{
+    border: 2px solid blue;
+    padding: 20px 40px;
+}
+
+@media screen and (max-width: 600px){
+    .address_container{
+        display: block;
+    }
+}

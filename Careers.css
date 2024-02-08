@@ -1,0 +1,61 @@
+h2{
+    text-align: center;
+    margin: 30px 0px;
+    color: #000080;
+}
+
+.career__container__text{
+    display: flex;
+    margin-left: 3%;
+}
+.main__career__form{
+    display: flex;
+    justify-content: center;
+}
+.career__form {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    border: 2px solid blue;
+    /* width: 50%; */
+    padding: 20px 67px;
+}
+
+.career__form .message__button textarea{
+    
+    margin-left: 40px;
+    /* width: 125%; */
+}
+.message__button{
+    margin-top: 9px;
+}
+
+.career__form .message__button label{
+    padding-left: 41px;
+}
+.address__container{
+    margin-left: 100px;
+}
+@media screen and (max-width: 600px){
+    .career__container__text{
+        display: block;
+        text-align: center;
+        margin-left: 0%;
+    }
+    .career__form {
+        display: block;
+
+       
+    }
+    .career__form .message__button textarea{
+        margin-left: 0px;
+    }
+
+}
+@media screen and (max-width: 800px){
+    .main__career__form {
+        display: block;
+        /* text-align: center; */
+        justify-content: center;
+    }
+}

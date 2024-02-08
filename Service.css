@@ -1,0 +1,21 @@
+.service__content1{
+    display: flex;
+}
+.service__content2{
+    
+    display: flex;
+}
+.service__content2 .p__container{
+    margin-top: 100px;
+}
+
+@media screen and (max-width: 600px){
+    .service__content1{
+        display: block;
+        text-align: center;
+    }
+    .service__content2{
+        display: block;
+        text-align: center;
+    }
+}
