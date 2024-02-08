@@ -2,8 +2,13 @@
     display: flex;
     margin-top: 5px;
 }
+
 .about__section2{
     display: flex;
+}
+.navbar-expand-lg{
+    background-color: #2F4F4F !important;
+    
 }
 @media screen and (max-width: 600px) {
     .about__section1{

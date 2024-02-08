@@ -3,13 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .home-widget-area .card:hover{
     background-color: aqua;
     color: white;
     transition: background-color 0.9s ease;
 }
-
+.navbar-expand-lg{
+    background-color: #2F4F4F !important;
+    
+}
 .second-home-widget-area hr{
     color: black;
     border: 2px solid black;
@@ -37,4 +39,10 @@
     padding: 10px;
     background-color: #808080;
     border-radius: 50%;
+}
+
+@media screen and (max-width: 600px){
+    .navbar .navbar-expand-lg{
+        display: block !important;
+    }
 }

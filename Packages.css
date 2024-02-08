@@ -1,3 +1,7 @@
+.navbar-expand-lg{
+    background-color: #2F4F4F !important;
+    
+}
 .packages__container .packages__text__container{
     display: flex;
 

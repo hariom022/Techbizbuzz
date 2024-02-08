@@ -3,7 +3,10 @@ h2{
     margin: 30px 0px;
     color: #000080;
 }
-
+.navbar-expand-lg{
+    background-color: #2F4F4F !important;
+    
+}
 .career__container__text{
     display: flex;
     margin-left: 3%;
