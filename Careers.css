@@ -7,6 +7,14 @@ h2{
     background-color: #2F4F4F !important;
     
 }
+.navbar-nav .nav-link{
+    color: white !important;
+}
+.navbar-nav .nav-link:hover {
+    background-color: black;
+    color: white !important;
+    
+}
 .career__container__text{
     display: flex;
     margin-left: 3%;

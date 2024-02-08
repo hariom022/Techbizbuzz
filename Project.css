@@ -2,6 +2,14 @@
     background-color: #2F4F4F !important;
     
 }
+.navbar-nav .nav-link{
+    color: white !important;
+}
+.navbar-nav .nav-link:hover {
+    background-color: black;
+    color: white !important;
+    
+}
 .project-text{
     margin-left: 10%;
 }

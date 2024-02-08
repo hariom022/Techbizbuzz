@@ -1,8 +1,23 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+.navbar-nav .nav-link{
+    color: white !important;
+}
+.navbar-nav .nav-link:hover {
+    background-color: black;
+    color: white !important;
+    
+}
+.carousel-caption{
+    top: 0px !important;
+    left: 0 !important;
+    padding: 10% 25% 0% 0%;
+}
+
 .home-widget-area .card:hover{
     background-color: aqua;
     color: white;
