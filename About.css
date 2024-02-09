@@ -22,6 +22,10 @@ body{
     
 
 }
+.footer__section .left-side-footer a{
+    text-decoration: none !important;
+    color: aliceblue !important;
+}
 .footer__section .right-side-footer i{
     padding: 10px;
     background-color: #808080;

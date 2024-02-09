@@ -22,3 +22,7 @@ h4{
     background-color: #808080;
     border-radius: 50% !important;
 }
+.footer__section .left-side-footer a{
+    text-decoration: none !important;
+    color: aliceblue !important;
+}
